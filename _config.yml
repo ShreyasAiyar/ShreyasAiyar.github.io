@@ -63,6 +63,7 @@ resume_theme:                   default
 # to _config.yml are only recognized when the server starts
 
 # Plugins
+whitelist: [jekyll-analytics]
 plugins:
   - jekyll-analytics
 

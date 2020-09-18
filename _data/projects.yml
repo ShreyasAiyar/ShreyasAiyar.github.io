@@ -1,16 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Arbitrage Opportunities
+  role: Developer
+  description:  Web application to stream stock prices from two stock markets using 
+                Apache Kafka and generate profit opportunities in real-time using 
+                constraint satisfisfaction problem solvers (CSP's).
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Revels
+  role: Primary Developer
+  description: Lead a small team of 3 developers to develop a native iOS application with Swift. Functionalities include - registering for university events, viewing rankings and forming teams. 
+              Over 400 daily active users at launch and rated 5 stars.
+
+- project: WWDC 2018
+  role: Primary Developer
+  description: 2D sidescroller game developed with SpriteKit for Apple’s World Wide Developer Conference (WWDC 2018).
+
+- project: Health Tracker
+  role: Developer
+  description: An open source web application to monitor health and productivity parameters. 
+              Developed with OpenCV, Javascript, and Python. Application won BlackRock local hackathon.

@@ -12,16 +12,16 @@ html {
 
 body{
   @include serif;
-  color: $text_color;
+  color: $black;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 .wrapper:before,
 .wrapper:after { content:""; display:table; }
 .wrapper:after { clear: both; }
 .wrapper {
-  max-width: 728px;
+  max-width: 700px;
   padding: 0 24px;
   margin: 0 auto;
   zoom: 1;

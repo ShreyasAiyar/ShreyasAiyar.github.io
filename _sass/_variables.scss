@@ -5,11 +5,12 @@ $container-width: 980px !default;
 $grid-gutter:     10px !default;
 
 // Colors
-$white:             #fff;
-$black:             #333;
+$white:             #FFFFFA;
+$black:             #262626;
+$accent:            #262626;
 
 // Styles
-$text_color:        $black;
+$text_color:        $white;
 
 // Font stack
 $body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;

@@ -3,17 +3,24 @@
 - company: Smule
   position: Software Engineer, Intern
   duration: June 2020 &mdash; August 2020
-  summary: Developing web applications for millions of Smule Users with React and Redux.
+  summary: Designed and developed a web application for millions of Smule users with React and Redux. Improved
+           user experience and performance with profiling tools and incorporating support for responsive pages.<br>
+          <b>Technologies</b> - React, Redux, Re-select, Angular, Immutable.js, Figma, Javascript, HTML, CSS
 
 # Director of Digital Stratgy
 - company: BlackRock
   position: Software Engineer, Intern
   duration: Jan 2019 &mdash; July 2019
-  summary: Streamlined the document management process serving thousands of clients. <br>
-          <b>Technologies</b> - Angular, Java, Spring Framework, Mockito, REST, Typescript HTML5, CSS3 <br>
+  summary: Developed a full stack application to streamline the document management process serving thousands of clients. 
+          Created and unit tested REST endpoints to support document management functionality. Improved search and query experience for 
+          power users by enabling wildcard searches. <br>
+          <b>Technologies</b> - Angular, Java, Spring Framework, Mockito, REST, Typescript HTML, CSS <br>
 
 # Communications Coordinator
 - company: Johns Hopkins University
   position: Teaching Assistant
   duration: Aug 2019 &mdash; Current
-  summary: Head Teaching Assistant for Object Oriented Software Engineering and Course assistant for Computer Networks for classes 100+ students strong.
+  summary: Head Teaching Assistant for Object Oriented Software Engineering and Course assistant 
+          for Computer Networks for classes 100+ students strong. <br>
+          <b>Technologies</b> - React, Java, Gradle, JUnit, Postman, JSON, 
+          Markdown, Javascript, HTML, CSS <br>
